@@ -1,2 +1,2 @@
-This is a new line.
-This is another line. I want to sign my commit using git config.
+New line to check git alias
+This is another file to check for git logs.
